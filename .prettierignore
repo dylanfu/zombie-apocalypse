@@ -1,0 +1,5 @@
+# Don't format the following folders
+node_modules
+build
+dist
+coverage
